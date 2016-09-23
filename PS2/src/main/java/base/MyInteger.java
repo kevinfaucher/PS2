@@ -1,4 +1,4 @@
-//Kevin Faucher
+//Kevin Faucher PS2
 package base;
 
 public class MyInteger {
