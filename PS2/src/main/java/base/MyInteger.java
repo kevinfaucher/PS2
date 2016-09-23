@@ -13,7 +13,7 @@ public class MyInteger {
 	}
 
 	public boolean isEven() {
-		return MyInteger.isEven(iValue); // returns True if iValue is even
+		return MyInteger.isEven(iValue); 
 	}
 
 	public boolean isOdd() {
